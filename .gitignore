@@ -1,0 +1,8 @@
+﻿# ignore
+/packages/*
+/*/Debug
+*.aps
+*.sdf
+*.suo
+*.opensdf
+/Debug
